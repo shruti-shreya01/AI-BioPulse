@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## MultiAgentic RAG
 
 This repository showcases the implementation of a **Multi-Agent Research RAG (Retriever-Augmented Generation) Tool** built with **LangGraph**. This project leverages the capabilities of agent-based frameworks to handle complex queries by breaking them down into manageable steps, dynamically utilizing tools, and ensuring response accuracy through error correction and hallucination checks.
@@ -32,3 +33,6 @@ python3 app.py
 ```
 
 Now ask your question based on the document: https://sustainability.google/reports/google-2024-environmental-report/
+=======
+# -AI-BioPulse
+>>>>>>> 262f8879b23f86aace205127fbded0c0c5323189
