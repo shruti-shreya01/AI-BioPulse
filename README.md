@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## AI BioPulse
 
 This repository showcases the implementation of a **Multi-Agent Research RAG (Retriever-Augmented Generation) Tool** built with **LangGraph**. This project leverages the capabilities of agent-based frameworks to handle complex queries by breaking them down into manageable steps, dynamically utilizing tools, and ensuring response accuracy through error correction and hallucination checks.
@@ -31,8 +31,3 @@ Once the PDF has been processed and indexed, you can start the application by ru
 ```bash
 python3 app.py
 ```
-
-Now ask your question based on the document: https://sustainability.google/reports/google-2024-environmental-report/
-=======
-# -AI-BioPulse
->>>>>>> 262f8879b23f86aace205127fbded0c0c5323189
