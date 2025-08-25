@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## MultiAgentic RAG
+## AI BioPulse
 
 This repository showcases the implementation of a **Multi-Agent Research RAG (Retriever-Augmented Generation) Tool** built with **LangGraph**. This project leverages the capabilities of agent-based frameworks to handle complex queries by breaking them down into manageable steps, dynamically utilizing tools, and ensuring response accuracy through error correction and hallucination checks.
 
@@ -10,8 +10,8 @@ To get started with this project, follow these steps:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/nicoladisabato/MultiAgenticRAG.git
-cd MultiAgenticRAG
+git clone https://github.com/shruti-shreya01/AI-BioPulse.git
+cd AI-BioPulse
 ```
 
 ```bash
